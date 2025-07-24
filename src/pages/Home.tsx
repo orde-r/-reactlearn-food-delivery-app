@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { restaurants } from "../data/restaurantData";
+import { restaurants } from "../data/RestaurantData";
 import type { Restaurant } from "../types/Restaurant";
 
 const Home = () => {
